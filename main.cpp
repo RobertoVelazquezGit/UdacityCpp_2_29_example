@@ -8,6 +8,9 @@ using std::ifstream;
 using std::istringstream;
 using std::string;
 using std::vector;
+
+// hola mundo
+
 // comment
 enum class State { kEmpty, kObstacle };
 
